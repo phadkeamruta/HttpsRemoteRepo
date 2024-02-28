@@ -2,4 +2,6 @@
 This is a file that have been created so that we can demonstrate git hub repository using HTTPS
 
 
+
 This line was added to main branch to demonstrate the recursive merge method
+
